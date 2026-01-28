@@ -71,6 +71,7 @@ jarvis_car/
 - faster-whisper
 - openWakeWord
 - Asyncio
+- ChatGPT OpenIA
 
 ---
 
@@ -200,7 +201,8 @@ Ele pode ser expandido para incluir:
 
 ## 👨‍💻 Autor
 
-Projeto Desenvolvido para fins educativos com o uso IA   
+Autor: Enzo Barros João
+Projeto Desenvolvido para fins educativos com o uso de IA   
 Inspirado no **JARVIS** do Homem de Ferro 🦾
 
 ---
